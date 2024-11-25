@@ -5,6 +5,25 @@
 ## Overview
 This project focuses on increasing the market share of ICICI Bank in the **Flights** and **Recharge** services sectors through innovative strategies, technological integration, and customer-centric enhancements.
 
+## Research Methodology:
+
+-**Data Collection:**
+Primary data was collected using market research surveys, consumer behavior analysis, and customer interviews to understand customer preferences and pain points. Secondary data from industry reports, competitor analysis, and public databases was also utilized.
+
+-**Data Analysis Tools:**
+
+- Python: Used for data processing and cleaning, as well as developing predictive models to understand market trends and customer behavior.
+- SQL: Applied for querying large datasets and performing data manipulation, segmentation, and aggregation to analyze customer preferences and competitor positioning.
+- Excel: Used for initial data analysis and calculations, as well as organizing and preparing raw data for deeper analysis in other tools.
+- Tableau: Employed to visualize key insights, including market share trends, competitor comparison, and customer satisfaction, through interactive dashboards.
+
+-**Technology Integration Research:**
+
+- AI and Machine Learning: Utilized to analyze user data and predict personalized recharge recommendations and flight booking preferences, aiming to optimize customer engagement and satisfaction.
+- Blockchain: Investigated for its potential in enhancing transparency and transferability of loyalty points in the rewards programs, increasing customer trust and retention.
+- Augmented Reality (AR): Explored for virtual seat selection and AR-based navigation at airports, enhancing customer experience during the booking and travel process.
+- CRM Systems: Utilized for tracking customer interactions, segmenting users based on behavior, and measuring the effectiveness of loyalty programs.
+
 ## Features
 - **Personalized Recharge Recommendations**:
   - AI-driven analysis of user history.
