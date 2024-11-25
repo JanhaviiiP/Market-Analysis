@@ -41,6 +41,7 @@ This project focuses on increasing the market share of ICICI Bank in the **Fligh
 
 
 ## Conclusion
-- The strategies proposed in this project for enhancing ICICI Bank’s market share in the Flights and Recharge services sectors are designed to create a competitive edge by focusing on technological innovation, personalized services, and customer-centric offerings. By leveraging AI-driven recommendations, blockchain loyalty programs, and augmented reality, ICICI Bank can effectively differentiate its services and cater to evolving customer needs.
+ The strategies proposed in this project for enhancing ICICI Bank’s market share in the Flights and Recharge services sectors are designed to create a competitive edge by focusing on technological innovation, personalized services, and customer-centric offerings. By leveraging AI-driven recommendations, blockchain loyalty programs, and augmented reality, ICICI Bank can effectively differentiate its services and cater to evolving customer needs.
+ 
 ---
 
