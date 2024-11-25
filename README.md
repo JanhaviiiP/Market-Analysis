@@ -7,17 +7,17 @@ This project focuses on increasing the market share of ICICI Bank in the **Fligh
 
 ## Research Methodology:
 
--**Data Collection:**
-Primary data was collected using market research surveys, consumer behavior analysis, and customer interviews to understand customer preferences and pain points. Secondary data from industry reports, competitor analysis, and public databases was also utilized.
+**Data Collection:**
+- Primary data was collected using market research surveys, consumer behavior analysis, and customer interviews to understand customer preferences and pain points. Secondary data from industry reports, competitor analysis, and public databases was also utilized.
 
--**Data Analysis Tools:**
+**Data Analysis Tools:**
 
 - Python: Used for data processing and cleaning, as well as developing predictive models to understand market trends and customer behavior.
 - SQL: Applied for querying large datasets and performing data manipulation, segmentation, and aggregation to analyze customer preferences and competitor positioning.
 - Excel: Used for initial data analysis and calculations, as well as organizing and preparing raw data for deeper analysis in other tools.
 - Tableau: Employed to visualize key insights, including market share trends, competitor comparison, and customer satisfaction, through interactive dashboards.
 
--**Technology Integration Research:**
+**Technology Integration Research:**
 
 - AI and Machine Learning: Utilized to analyze user data and predict personalized recharge recommendations and flight booking preferences, aiming to optimize customer engagement and satisfaction.
 - Blockchain: Investigated for its potential in enhancing transparency and transferability of loyalty points in the rewards programs, increasing customer trust and retention.
